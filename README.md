@@ -20,7 +20,7 @@
 🛑 This project is actively maintained and monetized through **Whop**.  
 To use the bot or get your own access code:
 
-👉 [**Subscribe to NetFinesse on Whop**](https://whop.com/checkout/plan_rNWns1D2xFhCH?d2c=true)
+👉 [**Subscribe to NetFinesse/OSINTFinesse on Whop**](https://whop.com/checkout/plan_rNWns1D2xFhCH?d2c=true)
 
 Once subscribed, you’ll receive a personal Telegram code that unlocks the bot features.
 
