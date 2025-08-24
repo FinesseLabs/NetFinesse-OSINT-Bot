@@ -4,18 +4,18 @@
 
 ---
 
-## ⚡️ Features
+##  Features
 
-- 🔎 Username reconnaissance (Maigret)
-- 📧 Email breach lookups (Holehe + HIBP)
-- 🌍 IP address intelligence (IPInfo)
-- 📡 Nmap port scanning 
-- 🧠 Built-in access control system (code-based & subscription-locked)
-- 📲 Alerts delivered via Telegram chat with formatted output
+-  Username reconnaissance (Maigret)
+-  Email breach lookups (Holehe + HIBP)
+-  IP address intelligence (IPInfo)
+-  Nmap port scanning 
+-  Built-in access control system (code-based & subscription-locked)
+-  Alerts delivered via Telegram chat with formatted output
 
 ---
 
-## 🚀 Get Full Access
+## Get Full Access
 
 🛑 This project is actively maintained and monetized through **Whop**.  
 To use the bot or get your own access code:
@@ -30,10 +30,10 @@ Yes — some of the tools used by NetFinesse are open-source or free.
 
 But here’s the truth:
 
-🔧 We built the stack that brings them together seamlessly in Telegram
-💸 Some APIs used in this bot are not free — we pay monthly for access
-⏱️ You’re saving hours of command line setup, installs, tokens, and terminal commands
-🧠 You're paying for curation, convenience, and constant updates
-🔒 Your data stays with you — no sketchy third-party dashboards or browser exploits
+- We built the stack that brings them together seamlessly in Telegram
+- Some APIs used in this bot are not free — we pay monthly for access
+- You’re saving hours of command line setup, installs, tokens, and terminal commands
+- You're paying for curation, convenience, and constant updates
+- Your data stays with you — no sketchy third-party dashboards or browser exploits
 You're not just paying for access to free tools —
 👉🏽 You're paying for the finesse.
